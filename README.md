@@ -5,7 +5,7 @@
 implement 'com.xiaolei:AppTitle:1.0.0'
 ```
 
-![运行示意图](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![运行示意图](https://raw.githubusercontent.com/xiaolei123/AppTitle/master/src/main/res/drawable-xhdpi/img_screen1.png)
 
 ```
 <!--自定义标题栏-->
