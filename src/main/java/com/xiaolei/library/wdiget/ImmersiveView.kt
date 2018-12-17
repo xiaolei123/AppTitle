@@ -15,10 +15,10 @@ open class ImmersiveView @JvmOverloads constructor(
 {
     init
     {
-        this.afterMeasured { width, height ->
+        this.afterMeasured { _, _ ->
             val titleLocationOnScreens = IntArray(2)
             this.getLocationOnScreen(titleLocationOnScreens)
-            val titleLocationOnScreenX = titleLocationOnScreens[0]
+            // val titleLocationOnScreenX = titleLocationOnScreens[0]
             val titleLocationOnScreenY = titleLocationOnScreens[1]
             // 如果在屏幕顶部
             if (titleLocationOnScreenY == 0)
