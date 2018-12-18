@@ -7,7 +7,9 @@ implement 'com.xiaolei:AppTitle:1.0.0'
 
 ![运行示意图](https://raw.githubusercontent.com/xiaolei123/AppTitle/master/src/main/res/drawable-xhdpi/img_screen1.png)
 
-```
+![运行示意图](https://raw.githubusercontent.com/xiaolei123/AppTitle/master/src/main/res/drawable-xhdpi/img_screen2.png)
+
+```xml
 <!--自定义标题栏-->
 <declare-styleable name="APPTittle">
     <!--左边图片是否显示-->
