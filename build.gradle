@@ -28,7 +28,7 @@ publish {
     userOrg = 'kavipyouxiang'// 用户所在组织,好像是用
     groupId = 'com.xiaolei'// 包名
     artifactId = 'AppTitle'// library的名字
-    publishVersion = '1.0.0'// 版本
+    publishVersion = '1.0.1'// 版本
     desc = '自适应沉浸式以及凹口屏的标题栏'
     website = "https://github.com/xiaolei123/AppTitle"
 }
