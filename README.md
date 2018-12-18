@@ -9,6 +9,12 @@ implement 'com.xiaolei:AppTitle:1.0.0'
 
 ![运行示意图](https://raw.githubusercontent.com/xiaolei123/AppTitle/master/src/main/res/drawable-xhdpi/img_screen4.png)
 
+# GPU绘制表现优秀
+
+![运行示意图](https://raw.githubusercontent.com/xiaolei123/AppTitle/master/src/main/res/drawable-xhdpi/img_screen5.png)
+
+# 自定义属性以及解释
+
 ```xml
 <!--自定义标题栏-->
 <declare-styleable name="APPTittle">
