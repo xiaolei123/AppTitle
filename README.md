@@ -1,13 +1,13 @@
 # AppTitle
 # 自适应沉浸式以及凹口屏的标题栏
 
-```
+```groovy
 implement 'com.xiaolei:AppTitle:1.0.0'
 ```
 
-![运行示意图](https://raw.githubusercontent.com/xiaolei123/AppTitle/master/src/main/res/drawable-xhdpi/img_screen1.png)
+![运行示意图](https://raw.githubusercontent.com/xiaolei123/AppTitle/master/src/main/res/drawable-xhdpi/img_screen3.png)
 
-![运行示意图](https://raw.githubusercontent.com/xiaolei123/AppTitle/master/src/main/res/drawable-xhdpi/img_screen2.png)
+![运行示意图](https://raw.githubusercontent.com/xiaolei123/AppTitle/master/src/main/res/drawable-xhdpi/img_screen4.png)
 
 ```xml
 <!--自定义标题栏-->
